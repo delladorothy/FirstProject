@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/make_player.unity
+- path: Assets/Scenes/Dangon.unity
   isLoaded: 1
   isActive: 1
